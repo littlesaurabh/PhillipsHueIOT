@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "hue",
+    "slug": "hue",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "hue"
+}
